@@ -1,8 +1,8 @@
 #  Multibrowser
 
 <div align = "center">
-<img src="/screens/1.jpeg" width="50%">        
-<img src="/screens/2.jpeg" width="50%">      
+<img src="/screens/1.jpeg" width="40%">        
+<img src="/screens/2.jpeg" width="40%">      
 </div>
 
 <p align="center">
@@ -14,6 +14,7 @@
 </p>
 
 [Demo video here](https://youtu.be/O6J8538RveU)
+<br>
 [Split View demo video here](https://youtu.be/FnmCwMT1wv8)
 
 ## Main functionality
