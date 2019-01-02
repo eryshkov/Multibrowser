@@ -24,6 +24,7 @@
 		5C04761F21DCAF8D00249FF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5CAC8AF721DCCDC0006BB574 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		5CAC8AF921DCCE9F006BB574 /* 1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpeg; sourceTree = "<group>"; };
+		5CAC8AFA21DCD5F3006BB574 /* 2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				5CAC8AF921DCCE9F006BB574 /* 1.jpeg */,
+				5CAC8AFA21DCD5F3006BB574 /* 2.jpeg */,
 			);
 			path = screens;
 			sourceTree = "<group>";

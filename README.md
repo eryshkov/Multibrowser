@@ -2,6 +2,7 @@
 
 <div align = "center">
 <img src="/screens/1.jpeg" width="50%">        
+<img src="/screens/2.jpeg" width="50%">      
 </div>
 
 <p align="center">
@@ -13,6 +14,7 @@
 </p>
 
 [Demo video here](https://youtu.be/O6J8538RveU)
+[Split View demo video here](https://youtu.be/FnmCwMT1wv8)
 
 ## Main functionality
 * simple web browser with multi page support
