@@ -12,10 +12,11 @@
 <img src="https://img.shields.io/badge/licence-MIT-lightgray.svg" alt="Licence MIT"/>
 </p>
 
-[Demo video here]()
+[Demo video here](https://youtu.be/O6J8538RveU)
 
 ## Main functionality
 * simple web browser with multi page support
+* uses `WKWebView`
 * uses `UIStackView` and it's `arrangedSubviews` `addArrangedSubview` things
 * use to remove view from stackView:
 `stackView.removeArrangedSubview(webView)`
